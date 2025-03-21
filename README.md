@@ -5,12 +5,13 @@
 </p>
 
 Welcome to Java Data Structures, a repository containing fundamental implementations of common data structures in Java.
-<h1><strong>Implemented structures</strong></h1>
+<h3><strong>Implemented structures</strong></h3>
 <br>
+<ul>
+  <li>Stacks (LIFO)</li>
+  <li>Queues & Deques (FIFO)</li>
+  <li>Linked List</li>
+  <li>HashMaps</li>
+</ul>
 <br>
-- Stacks (LIFO)
-- Queues & Deques (FIFO)
-- Linked Lists
-- HashMaps
-
 Contributions are welcome! Feel free to suggest improvements, tips and other data structures to implement.
