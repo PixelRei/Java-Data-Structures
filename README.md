@@ -5,7 +5,7 @@
 </p>
 
 Welcome to Java Data Structures, a repository containing fundamental implementations of common data structures in Java.
-###Implemented structures
+##Implemented structures
 - Stacks (LIFO)
 - Queues & Deques (FIFO)
 - Linked Lists
