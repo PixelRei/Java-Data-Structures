@@ -1,7 +1,7 @@
 # Java Data Structures 📂🧑‍💻
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/9118/9118438.png" alt="Data Structures" width="500">
+  <img src="[https://cdn-icons-png.flaticon.com/512/9118/9118438.png](https://cdn-icons-png.flaticon.com/512/9118/9118467.png)" alt="Data Structures" width="500">
 </p>
 
 Welcome to <b>Java Data Structures</b>, a repository containing fundamental implementations of common data structures in Java.
